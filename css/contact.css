@@ -1,0 +1,25 @@
+.card {
+    width: 250px;
+    background-color: #ffff;
+    width: 150px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.card-container {
+    display: flex;
+    align-items: center;
+}
+
+.contact-icon {
+    height: 100px;
+    display: flex;
+    margin: 10px auto;
+}
+
+.btn {
+    background-color: #009900;
+}

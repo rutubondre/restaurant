@@ -1,0 +1,43 @@
+body {
+    background-color: #fef6e4;
+}
+
+.bg-primary {
+    background-color: #8bd3dd;
+}
+
+.bg-secondary {
+    background-color: #f582ae;
+}
+
+.text-primary {
+    color: #8bd3dd;
+}
+
+.text-secondary {
+    color: #f582ae;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.headline {
+    color: #001858
+}
+
+.btn {
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    margin: 10px auto;
+}
+
+.dash {
+    text-decoration: none;
+}
+
+.highlight {
+    font-weight: bold;
+}

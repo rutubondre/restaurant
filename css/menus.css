@@ -1,0 +1,46 @@
+.btn {
+    background-color: #c3f0ca;
+}
+
+.headline {
+    color: #8bd3dd;
+}
+
+.menu-card {
+    background-color: #ff99c2;
+    width: 160px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #cc0052;
+    cursor: pointer;
+}
+
+.menu-icon {
+    height: 100px;
+    display: block;
+    margin: 10px auto;
+}
+
+.paragraph {
+    margin-top: 0;
+    font-family: dancing script;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    padding: 5px;
+    color: #ffff;
+    cursor: pointer;
+}
+
+.button:hover {
+    border-radius: 10px;
+}
+
+.menus-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
